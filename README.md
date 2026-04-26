@@ -4,6 +4,8 @@
 >
 > Follow me on X: [https://x.com/jiayuan_jy](https://x.com/jiayuan_jy)
 
+![Andrej Karpathy 提升 LLM 程式碼品質的四個核心準則](https://github.com/user-attachments/assets/735204a0-4a66-452f-824d-5588ba50abd5)
+
 A single `CLAUDE.md` file to improve Claude Code behavior, derived from [Andrej Karpathy's observations](https://x.com/karpathy/status/2015883857489522876) on LLM coding pitfalls.
 
 ## The Problems
